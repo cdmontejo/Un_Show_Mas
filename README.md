@@ -40,5 +40,5 @@ En mayo de 2013, la editorial independiente Boom! Studios empezó a publicar una
 <li> Regular Show: Mordecai and Rigby In 8-Bit Land</li>
 </lu>
 
-## Mas Info
-<a href= >
+## Mas Info[
+(https://es.wikipedia.org/wiki/Regular_Show)
